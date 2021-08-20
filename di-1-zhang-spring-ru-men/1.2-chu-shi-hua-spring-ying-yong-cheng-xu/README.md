@@ -19,9 +19,4 @@ Spring Initializr 既是一个基于浏览器的 Web 应用程序，又是一个
 
 如果你不是 Spring Tool Suite 用户，很好，我们是朋友了。跳至附录，用最适合你的 Initializr 选项代替以下各节中的说明。但是要知道，在本书中，我偶尔会引用特定于 Spring Tool Suite 的功能，例如 Spring Boot Dashboard。如果你不使用 Spring Tool Suite，则需要调整这些说明以适合你的 IDE。
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+
